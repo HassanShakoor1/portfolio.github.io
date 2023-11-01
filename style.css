@@ -49,10 +49,7 @@ html, body {
 }
 
 @media screen and (max-width: 660px) {
-    .navbar{    
-
-
-    }
+   
     .navbar-links {
         display: none;
         flex-direction: column;
